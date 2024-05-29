@@ -1,0 +1,128 @@
+.tom{
+    background-image: url('./image\ 1.png');
+    height: 900px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+}
+a{
+    text-align: center;
+    color: aliceblue;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: #009FF5B5;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+    background-color: hsla(23, 100%, 48%, 0.71);
+    width: 604px;
+    height: 52px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+.lo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;  
+}
+.hj{
+    background-color: rgb(67, 67, 184);
+  box-shadow: 10px 10px 15px gray;
+}
+.kj{
+    background-color: rgb(67, 67, 184);
+  box-shadow: 10px 10px 15px gray;
+}
+.gf{
+    background-color: rgb(67, 67, 184);
+  box-shadow: 10px 10px 15px rgb(234, 218, 218);
+}
+h2{
+    color: azure;
+    text-align: center;
+}
+p{
+    color: beige;
+    display: right;
+}
+.re{
+    height: 700px;
+    width: 1503px;
+    background-color: black;
+}
+h3{
+    text-align: center;
+    color: beige;
+    background-color: black;
+}
+.na{
+    width: 663px;
+    height: 140px;
+    top: 1204px;
+    left: 716px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h4{
+    color: aliceblue;
+    background-color: #726666;
+    width: 136px;
+    height: 20px;
+    top: 1448px;
+    left: 716px;
+    border-radius: 500px;
+    text-align: center;
+    box-shadow: 10px 10px 15px rgb(234, 218, 218);
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.as{
+    width: 663px;
+    height: 140px;
+    top: 1204px;
+    left: 716px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.df{
+    width: 1503px;
+    height: 100px;
+    background-color: #fcdb05;
+}
+.df{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h4{
+    color: aliceblue;
+    background-color: #726666;
+    width: 136px;
+    height: 20px;
+    border-radius: 500px;
+    text-align: center;
+    box-shadow: 10px 10px 15px rgb(234, 218, 218); 
+}
